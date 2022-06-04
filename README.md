@@ -120,7 +120,7 @@ vg00-lv_project	(253:0)
 ```
 
 
-| Option  | Desciption|
+| Option  | Description|
 ---------|-----------
 -a       | --all
 -o       | --options
