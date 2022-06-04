@@ -125,7 +125,7 @@ vg00-lv_project	(253:0)
 -a       | --all
 -o       | --options
 --devices| Devices that the command can use
-+        | will append the specified fields to the default fields
+"+"        | will append the specified fields to the default fields
 
 
               
