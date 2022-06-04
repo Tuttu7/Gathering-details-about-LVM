@@ -118,12 +118,15 @@ vg00-lv_project	(253:0)
   lv_project vg00 -wi-ao----   1.00g                                                     /dev/sdb1(0
 
 ```
-|-a |--all |
-|-o| --options|
-| +| will append the specified fields to the default fields|
-|--devices PV| Devices that the command can use. This option can be
-              repeated or accepts a comma separated list of devices.
-              This overrides the devices file.|          
+
+
+| Option  | Desciption|
+---------|-----------
+-a       | --all
+-o       | --options
++        | will append the specified fields to the default fields
+--devices| Devices that the command can use. This option can be
+              repeated or accepts a comma separated list of devices         
 
 
               
